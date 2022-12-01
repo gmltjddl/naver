@@ -45,7 +45,7 @@
                 width:1200px;
             }
             nav{
-                border:0px solid;
+                border:1px solid;
                 text-align: center;
                 margin-top: -9px;
                 margin-right: 0px;
@@ -55,9 +55,10 @@
                 
             }
             .div-wraper-main{
+                border:1px solid;
                 position:relative;
                 width:1260px;
-                height:2500px;
+                height:2200px;
                 padding-top: 0px;
                 margin-left:280px;
                 margin-top:25px;
@@ -285,12 +286,12 @@
             .line2{
                 text-align: left;
                 position: relative;
-                top:50px;
+                bottom:605px;
             }
             .line3{
                 text-align: left;
                 position: relative;
-                top:65px;
+                bottom:210px;
             }
             .line4{
                 width: 350px;
@@ -327,15 +328,15 @@
                 top:70px;
                 right:15px;
                 height:650px;
-                border:0px solid red;
+                border:1px solid red;
 
             }
             .beauty-wrap2{
                 position: relative;
-                top:60px;
+                bottom:600px;
                 right:15px;
-                height:650px;
-                border:0px solid red;
+                height:250px;
+                border:1px solid red;
 
             }
             .beauty-top-img{
@@ -406,7 +407,7 @@
                 width:345px;
                 height:900px;
                 position:relative;
-                top:90px;
+                top:40px;
                 margin-left:-90px;
                 padding-left:5px;
 
@@ -465,15 +466,14 @@
             }
             .av{
                 position:relative;
-                top:50px;
-                right:250px
+                bottom:600px;
+                right:252px
 
 
             }
             .av1{
                 position:relative;
                 display:inline-block;
-
             }
             .av-p1{
                 position:relative;
@@ -508,5 +508,241 @@
                 text-align: left;
                 font-size: 13px;
                 font-weight: bold;
+            
+            }
+            .spnessws{
+                border:2px solid;
+                position:relative;
+                width:345px;
+                height:350px;
+                border: 1px solid;
+                left:500px;
 
+            }
+            .spnews-li{
+                display:inline-block;
+                position: relative;
+                border:2px solid red;
+            }
+            .list li::marker{
+                color : rgb(134, 214, 15);
+                position: relative;
+                
+            }
+            .list{
+                font-size: 13px;
+                line-height: 200%;
+                position: relative;
+                right:20px;
+            }
+            .last-side{
+                width: 345px;
+                height:350px;
+                text-align: left;
+                position: relative;
+                bottom:30px;
+                left:785px;
+
+            }
+            .last-sdie-top{
+                position: relative;
+                display:inline-block;
+                left:150px;
+                top:8px;
+
+
+            }
+            .last-side-a{
+                font-size: 13px;
+                position: relative;
+                display:inline-block;
+                top:10px;
+                left:6px;
+            }
+            .last-side-right{
+                position: relative;
+                display:inline-block;
+                bottom: 20px;
+                left:254px;
+            
+            
+            }
+            .last-side-img{
+                position: relative;
+                bottom:50px;
+                left:10px;
+            }
+            .last-side-img1{
+                position: relative;
+
+                top:30px;
+            }
+            .last-side-img2{
+                position: relative;
+                display:inline-block;
+            
+                left:170px;
+                bottom:136px;
+            }
+            .footer-wrap{
+                width:100%;
+                height:400px;
+                border: 1px solid #DAE1E6;
+                background-color: #F7F9FA;
+                position :relative;
+                top:115px;
+
+            }
+            .footer-img{
+                position :relative;
+                display:inline-block;
+                left:280px;
+             
+            }
+            .footer-top1{
+                position :relative;
+                display:inline-block;
+                top:18px;
+                
+            }
+            .footer-top2{
+                position :relative;
+                display:inline-block;
+               left:80px; 
+                top:21px;
+            }
+            .footer-top3{
+                position :relative;
+                display:inline-block;
+                left:170px;
+                top:17px;
+            }
+            .footer-a1{
+                position :relative;
+                display:inline-block;
+                left:290px;
+                bottom:10px;
+            }
+            .footer-a2{
+                position :relative;
+                display:inline-block;
+                left:290px;
+                bottom:15px;
+            }
+            .footer-a3{
+                position :relative;
+                display:inline-block;
+                left:290px;
+                bottom:10px;
+            }
+            .footer-p1{
+                color:#58C464;
+                font-weight:bold;
+                font-size: 12px;
+                line-height: 80%;
+            }
+            .footer-p2{
+                font-weight:bold;
+                font-size: 12px;;
+                line-height: 70%;
+            }
+            .footer-p3{
+                font-size: 12px;;
+                line-height:70%;
+            }
+            .footerline1{
+                position :relative;
+                top:15px;
+                text-align: center;
+            }
+            .footerline2{
+                position :relative;
+                bottom:5px;
+                text-align: center;
+            }
+            .notice{
+                position :relative;
+                left:280px;
+                width:100px;
+                top:10px;
+                 }
+            .service{
+                position :relative;
+                left:1320px;
+                bottom:13px;
+                width:100px;
+            }
+            .footer-p4{
+                position :relative;
+                display:inline;
+                font-size: 12px;
+                font-weight: bold;
+                left:280px;
+                line-height: 200%;
+                color:
+
+            }
+            .a1{
+                position :relative;
+                font-size: 12px;
+                left:300px;
+                color:#808080;
+            }
+            .footer-whale{
+                position :relative;
+                display:inline;
+                float :right;
+                right:495px;
+                bottom:59px;
+            }
+            .footer-flower{
+                position :relative;
+                display:inline;
+                float :right;
+                right:274px;
+                bottom:61px;
+            }
+            .whale-text{
+                position :relative;
+                display:inline;
+                float :right;
+                right:460px;
+                bottom:64px;
+            }
+            .flower-text{
+                position :relative;
+                display:inline;
+                float :right;
+                right:210px;
+                bottom:66px;
+            }
+            .whale-p1{
+                font-size: 12px;
+                font-weight: bold;
+                line-height: 60%;
+            }
+            .whale-p2{
+                font-size: 12px;
+                line-height: 60%;
+            }
+            .footerline3{
+                position :relative;
+                width:700px;
+                left:272px;
+                top:3px;
+            }
+            .footer-text1{
+                font-size: 12px;
+                font-weight: bold;
+            }
+            .footer-text2{
+                font-size: 12px;    
+                color:#808080;
+
+
+            }
+            .text-1{
+                position :relative;
+                left:280px;
+                top:5px;
             }
