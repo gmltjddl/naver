@@ -45,7 +45,7 @@
                 width:1200px;
             }
             nav{
-                border:1px solid;
+                border:0px solid;
                 text-align: center;
                 margin-top: -9px;
                 margin-right: 0px;
@@ -55,7 +55,7 @@
                 
             }
             .div-wraper-main{
-                border:1px solid;
+                border:0px solid;
                 position:relative;
                 width:1260px;
                 height:2200px;
@@ -328,7 +328,7 @@
                 top:70px;
                 right:15px;
                 height:650px;
-                border:1px solid red;
+                border:0px solid red;
 
             }
             .beauty-wrap2{
@@ -336,7 +336,7 @@
                 bottom:600px;
                 right:15px;
                 height:250px;
-                border:1px solid red;
+                border:0px solid red;
 
             }
             .beauty-top-img{
